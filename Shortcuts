@@ -1,0 +1,10 @@
+
+LeftAlt - Zaznacza kursor w kilku miejscach z lewym kliknięciem myszy (prawie jak Ctrl+Shift w VS)
+F2 - Refactor zmiennej w pliku (tylko w obręboe klasy, a nie pliku)
+Ctrl + LeftAlt - to samo co Ctrl+Shift w VS
+LeftAlt + Arrow (Up/Down) - Przenosi linijkę w górę lub w dół
+Ctrl + X - Usuwa linijkę
+Ctrl + A, Shift + Enter - python wykonuje zaznaczony kod i mamy wynik w terminalu
+Ctrl + Enter - zakończenie pisania kodu w bieżącej linii i przejście do kolejnej (nie trzeba kończyć linijki znakami)
+Ctrl + Arrow (Up/Down) - Scrollowanie pilku w górę lub w dół
+Ctrl + Tab - przełączanie się między plikami/kartami - kolejność od tego który był ostatnio używany
